@@ -5,7 +5,7 @@ const swaggerOptions = {
   swaggerDefinition: {
     openapi: '3.0.0',
     info: {
-      title: 'Employee API',
+      title: 'API de Funcionários',
       version: '1.0.0',
       description: 'API para gerenciamento de funcionários',
       contact: {
@@ -13,7 +13,7 @@ const swaggerOptions = {
       },
       servers: [
         {
-          url: 'https://crud-g2t1.onrender.com',
+          url: 'https://crudbasico-k87c.onrender.com',
           description: 'Servidor da API',
         },
       ],
